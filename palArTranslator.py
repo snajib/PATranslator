@@ -1,7 +1,7 @@
 import pandas as pd
 
-baseExFile = pd.read_excel('../Datasets/CurrasAnnotations_Full.xlsx')
-freqExFile = pd.read_excel('../Datasets/Curras_wordsFrequencies.xlsx')
+baseExFile = pd.read_excel('./Datasets/CurrasAnnotations_Full.xlsx')
+freqExFile = pd.read_excel('./Datasets/Curras_wordsFrequencies.xlsx')
 
 # print(baseExFile)
 
